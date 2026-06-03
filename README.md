@@ -1,11 +1,12 @@
- charms and spells and abilitys in Hollow Knight 
+spells in Hollow Knight 
  
  summary 
- this website will show you and inform you about charms and spells in hollow knight
+ this website will show you and inform you about spells in hollow knight
 
  
  user's perspective 
- there will be a list showing all the abititys charms and spells based on there uses and each will have a link that ,leads to a page that describe the item 
-
+there is a link for each spell and a vidoe guide the spells will have where they are found and a picture of the tutorail will be on each page of each spell
+ 
+ 
  dev's perspective 
- there will be pages each for each of the spells, abilitys, and charms. there will also be a video showing how to get all of the things 
+will use flex css to split the page in to thirds two thirds on the left and one third on the right the right side will have the list shown above and the right will have the info about the spell  
